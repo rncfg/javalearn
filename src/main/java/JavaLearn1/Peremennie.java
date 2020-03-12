@@ -1,4 +1,4 @@
-package JavaLearn;
+package JavaLearn1;
 
 public class Peremennie {
     public static void main(String[] args){

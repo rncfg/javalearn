@@ -1,4 +1,4 @@
-package JavaLearn;
+package JavaLearn1;
 
 public class Math {
     public static void main(String[] args) {
