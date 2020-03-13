@@ -14,6 +14,7 @@ public class Switch {
                 break;
             default:
                 System.out.println("Num is Unknown");
+
         }
 
     }
